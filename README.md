@@ -4,7 +4,7 @@
 
 ## Installation
 
-1. `bash <(curl -s "https://raw.githubusercontent.com/cedrus172/cedrusProxyV6/main/scripts/install.sh")`
+1. `bash <(curl -s "https://raw.githubusercontent.com/axlek/ipv6-proxy-creator/main/scripts/install.sh")`
 
 1. After installation dowload the file `proxy.zip`
    * File structure: `IP4:PORT:LOGIN:PASS`
